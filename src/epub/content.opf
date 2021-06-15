@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/william-shakespeare/king-john</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2021-06-15T00:00:38Z</dc:date>
+		<meta property="dcterms:modified">2021-06-15T00:00:38Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -37,18 +37,18 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh2007100279</meta>
 		<meta property="se:subject">Drama</meta>
-		<dc:description id="description">King John is commanded to hand over his thrown to Arthur of Bretagne or face war with the French.</dc:description>
+		<dc:description id="description">King John is commanded to hand over his throne to Arthur of Bretagne or face war with the French.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;An ambassador sent by King Philip of France delivers an ominous threat: King John must relinquish his throne to the rightful heir to the throne, his nephew Arthur of Bretagne, or France will declare a “fierce and bloody war.” John refuses. After receiving this news, Philip orders his forces to prepare an attack on the English-controlled French town of Angiers. The citizens must swear allegiance to Arthur or die.&lt;/p&gt;
-			&lt;p&gt;King John also must deal with a dispute over land ownership between the Faulconbridge brothers. Their father knew that his older son was not his, and before his death, he bequeathed all of his lands to his younger son. John rules that the bastard son rightfully owns the lands regardless of who is his true father. John’s mother, Elinor, sees that the bastard son resembles Richard the Lionheart and proposes that he renounce his claim to the Faulconbridge land in exchange for a knighthood. He agrees and becomes Sir Richard Plantagenet.&lt;/p&gt;
+			&lt;p&gt;An ambassador sent by King Philip of France delivers an ominous threat: King John must relinquish his throne to its rightful heir, his nephew Arthur of Bretagne, or France will declare a “fierce and bloody war.” John refuses. After receiving this news, Philip orders his forces to prepare an attack on the English-controlled French town of Angiers, and the citizens must then swear allegiance to Arthur or die.&lt;/p&gt;
+			&lt;p&gt;King John also must deal with a dispute over land ownership between the Faulconbridge brothers. Their father knew that the older son was not his, and before his death, he bequeathed all of his lands to the younger son. John rules that the bastard son rightfully owns the lands regardless of who is his true father. John’s mother, Elinor, sees that the bastard son resembles Richard the Lionheart and proposes that he renounce his claim to the Faulconbridge land in exchange for a knighthood. He agrees and becomes Sir Richard Plantagenet.&lt;/p&gt;
 			&lt;p&gt;This Standard Ebooks production is based on William George Clark and William Aldis Wright’s 1887 Victoria edition, which is taken from the Globe edition.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>http://shakespeare.mit.edu/john/full.html</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/004135080</dc:source>
 		<meta property="se:production-notes">The main text is based on the MIT transcription and 1887 Victoria edition.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">22138</meta>
+		<meta property="se:reading-ease.flesch">76.66</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.m.wikipedia.org/wiki/King_John_(play)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/william-shakespeare_king-john</meta>
 		<dc:creator id="author">William Shakespeare</dc:creator>
@@ -73,6 +73,10 @@
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
