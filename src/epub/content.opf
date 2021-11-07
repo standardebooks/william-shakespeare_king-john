@@ -49,7 +49,7 @@
 		<meta property="se:production-notes">The main text is based on the MIT transcription and 1887 Victoria edition.</meta>
 		<meta property="se:word-count">22138</meta>
 		<meta property="se:reading-ease.flesch">76.66</meta>
-		<meta property="se:url.encyclopedia.wikipedia">https://en.m.wikipedia.org/wiki/King_John_(play)</meta>
+		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/King_John_(play)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/william-shakespeare_king-john</meta>
 		<dc:creator id="author">William Shakespeare</dc:creator>
 		<meta property="file-as" refines="#author">Shakespeare, William</meta>
@@ -58,7 +58,7 @@
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Charles August Buchel</dc:contributor>
 		<meta property="file-as" refines="#artist">Buchel, Charles August</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.m.wikipedia.org/wiki/Charles_Buchel</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Charles_Buchel</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n97859797</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Jeremy Hylton</dc:contributor>
