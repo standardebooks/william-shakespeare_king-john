@@ -36,6 +36,8 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh2007100279</meta>
 		<meta property="se:subject">Drama</meta>
+		<meta id="collection-1" property="belongs-to-collection">Encyclopædia Britannica’s Great Books of the Western World</meta>
+		<meta property="collection-type" refines="#collection-1">set</meta>
 		<dc:description id="description">King John is commanded to hand over his throne to Arthur of Bretagne or face war with the French.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;An ambassador sent by King Philip of France delivers an ominous threat: King John must relinquish his throne to its rightful heir, his nephew Arthur of Bretagne, or France will declare a “fierce and bloody war.” John refuses. After receiving this news, Philip orders his forces to prepare an attack on the English-controlled French town of Angiers, and the citizens must then swear allegiance to Arthur or die.&lt;/p&gt;
